@@ -1,0 +1,14 @@
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\bin\Debug\net7.0\projeto_final_bloco_01.exe
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\bin\Debug\net7.0\projeto_final_bloco_01.deps.json
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\bin\Debug\net7.0\projeto_final_bloco_01.runtimeconfig.json
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\bin\Debug\net7.0\projeto_final_bloco_01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\bin\Debug\net7.0\projeto_final_bloco_01.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.AssemblyInfoInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.AssemblyInfo.cs
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.csproj.CoreCompileInputs.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\refint\projeto_final_bloco_01.dll
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.pdb
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\projeto_final_bloco_01.genruntimeconfig.cache
+C:\Users\Monique\OneDrive\Área de Trabalho\projeto_final_bloco_1\projeto_final_bloco_01\obj\Debug\net7.0\ref\projeto_final_bloco_01.dll
